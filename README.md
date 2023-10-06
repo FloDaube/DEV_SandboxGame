@@ -1,2 +1,2 @@
 # DEV_SandboxGame
-A small dev sandbox to work out various functions and ideas
+A small dev sandbox game to work out various functions and ideas
